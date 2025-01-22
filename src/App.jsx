@@ -44,7 +44,7 @@ const weatherForecasts = [
 
 /*--------------- App.jsx code ------------------*/
 //imports
-import WeatherForcast from "./weatherForecasts";
+import WeatherForcast from "./weatherForecast/weatherForecasts";
 
 
 const App = () => {
